@@ -1,1 +1,2 @@
 # Quotify
+JavaScript practice project
